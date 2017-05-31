@@ -11,4 +11,5 @@ class TestBoard < MiniTest::Test
   def test_board_tiles_max
     assert_equal(16, @sal.board_tiles)
   end
+  
 end

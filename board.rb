@@ -3,7 +3,6 @@ class Board
 
   def initialize()
     @board_tiles = 16
-
   end
 
 end
